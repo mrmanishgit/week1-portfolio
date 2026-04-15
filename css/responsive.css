@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+
+  .navbar {
+    padding: 15px;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  .hero h1 {
+    font-size: 28px;
+  }
+
+  .contact-box input,
+  .contact-box textarea {
+    width: 90%;
+  }
+}

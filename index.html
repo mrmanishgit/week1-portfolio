@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Manish Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/responsive.css">
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header>
+  <nav class="navbar">
+    <h2 class="logo">Manish</h2>
+
+    <ul class="nav-links">
+      <li><a href="#">Home</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+
+    <div class="burger" onclick="toggleMenu()">☰</div>
+  </nav>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-content">
+    <h1>Hello, I'm <span>Manish Maharana</span></h1>
+    <p>Frontend Developer | React Developer</p>
+    <a href="#contact" class="btn">Hire Me</a>
+  </div>
+</section>
+
+<!-- SERVICES -->
+<section id="services">
+  <h2>My Services</h2>
+
+  <div class="service-grid">
+
+    <div class="service-card">
+      <h3>💻 Web Development</h3>
+      <p>I create responsive and modern websites.</p>
+    </div>
+
+    <div class="service-card">
+      <h3>⚛️ Frontend Development</h3>
+      <p>React-based UI with clean and scalable code.</p>
+    </div>
+
+    <div class="service-card">
+      <h3>🎨 UI Design</h3>
+      <p>Modern and user-friendly interface design.</p>
+    </div>
+
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+  <h2>My Projects</h2>
+
+  <div class="project-grid">
+
+    <div class="card">
+      <img src="images/project2.jpeg" alt="Expense System">
+      <div class="card-content">
+        <h3>Expense System</h3>
+        <p>React + Spring Boot</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/project1.jpeg" alt="Chatbot">
+      <div class="card-content">
+        <h3>Chatbot</h3>
+        <p>Multilingual chatbot system</p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    I am a passionate frontend developer focused on building modern,
+    responsive, and user-friendly web applications.
+  </p>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <h2>Contact Me</h2>
+
+  <div class="contact-box">
+    <input type="text" placeholder="Your Name" required>
+    <input type="email" placeholder="Your Email" required>
+    <textarea placeholder="Your Message" required></textarea>
+    <button class="btn">Send Message</button>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 Manish Maharana | All Rights Reserved</p>
+</footer>
+
+<script src="js/navigation.js"></script>
+
+</body>
+</html>
