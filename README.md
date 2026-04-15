@@ -49,9 +49,12 @@ week1-portfolio/
 ## 📸 Screenshots
 
 <img width="1833" height="872" alt="image" src="https://github.com/user-attachments/assets/f584c659-735f-4d31-a7b4-727b1bf16c9a" />
+<img width="1827" height="453" alt="Screenshot 2026-04-15 164209" src="https://github.com/user-attachments/assets/7e74cf93-584a-4273-ae0a-cb1e2faf1b9c" />
+
 <img width="1666" height="403" alt="image" src="https://github.com/user-attachments/assets/148a307d-dccb-4fc9-9b05-1c0a5d38bf94" />
 
 <img width="1789" height="851" alt="image" src="https://github.com/user-attachments/assets/0b7cf44e-8c7b-4b23-8ba7-60ed4d47f239" />
+<img width="1770" height="691" alt="Screenshot 2026-04-15 164325" src="https://github.com/user-attachments/assets/978dac23-c76e-4bed-abb6-2f3df834a7db" />
 
 
 ---
